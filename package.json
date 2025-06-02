@@ -11,6 +11,7 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "files": [
+    "./index.js",
     "./src/theme.js",
     "./index.d.ts"
   ],

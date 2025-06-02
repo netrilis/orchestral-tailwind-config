@@ -24,5 +24,5 @@
     "noUnusedParameters": false,
     "noPropertyAccessFromIndexSignature": false,
   },
-  "include": ["src/**/*", "index.js", "index.d.ts"]
+  "include": ["src/theme.js", "index.js", "index.d.ts"]
 }
