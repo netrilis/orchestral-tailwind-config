@@ -4,7 +4,7 @@ const CLASS_PREFIX = 'orc-'
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  preset: [require('./src/theme')],
+  presets: [require('./src/theme')],
   prefix: CLASS_PREFIX,
   theme: {
     extend: {
