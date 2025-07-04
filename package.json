@@ -1,8 +1,7 @@
 {
   "name": "orchestral-tailwind-config",
   "description": "Tailwind preset for Orchestral Design System",
-  "version": "0.0.1-alpha.1",
-  "module": "index.ts",
+  "version": "0.0.1-alpha.6",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/netrilis/orchestral-tailwind-config.git",
@@ -12,7 +11,8 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "files": [
-    "./src/theme.js.js",
+    "./index.js",
+    "./src/theme.js",
     "./index.d.ts"
   ],
   "scripts": {
